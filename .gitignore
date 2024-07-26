@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 blog_posts/youtube_scraper/.env
+
+blog_posts/spacy_llm_ner/.env

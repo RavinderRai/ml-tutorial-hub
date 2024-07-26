@@ -1,0 +1,54 @@
+[
+    {
+        "text": "Batman can take on any villain thanks to his intellect in combination with his many tools in his utility belt.",
+        "spans": [
+            {
+                "text": "Batman",
+                "is_entity": true,
+                "label": "SUPERHERO",
+                "reason": "Batman is a popular superhero that originated from DC comic books"
+            },
+            {
+                "text": "intellect",
+                "is_entity": false,
+                "label": "==NONE==",
+                "reason": "is an attribute of Batman's character, but not exactly a weapon, nor a gadget"
+            },
+            {
+                "text": "Utility Belt",
+                "is_entity": true,
+                "label": "GADGET",
+                "reason": "is a gadget that is commonly associated with Batman"
+            }
+        ]
+    },
+    {
+        "text": "Even with Mjolnir and super strength, Thor could not beat Superman in a one-on-one fight during the Marvel and DC crossover comic book",
+        "spans": [
+            {
+                "text": "Mjolnir",
+                "is_entity": true,
+                "label": "WEAPON",
+                "reason": "is a popular weapon (hammer) that belongs to the Superhero Thor"
+            },
+            {
+                "text": "super strength",
+                "is_entity": false,
+                "label": "==NONE==",
+                "reason": "super strenth is a super power that belongs to many super heros, it is not specifically a weapon"
+            },
+            {
+                "text": "Thor",
+                "is_entity": true,
+                "label": "SUPERHERO",
+                "reason": "Thor is a popular superhero that originated from Marvel comic books, and Norse mythology before that"
+            },
+            {
+                "text": "Superman",
+                "is_entity": true,
+                "label": "SUPERHERO",
+                "reason": "Superman is a popular superhero that originated from DC comic books"
+            }
+        ]
+    }
+]
